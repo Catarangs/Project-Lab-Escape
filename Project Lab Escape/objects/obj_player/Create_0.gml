@@ -1,0 +1,9 @@
+move_dir_x     = 0;
+move_dir_y     = 0;
+fire_timer     = 0;
+invincible_timer = 0;
+invincible_max   = 90;   
+alive          = true;
+angle_face     = 0;
+death_timer    = 0;
+depth          = -200;

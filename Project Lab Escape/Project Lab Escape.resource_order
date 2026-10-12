@@ -1,0 +1,26 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":7,"path":"folders/Objects.yy",},
+    {"name":"Bullet","order":10,"path":"folders/Objects/Bullet.yy",},
+    {"name":"Enemy","order":11,"path":"folders/Objects/Enemy.yy",},
+    {"name":"Screen","order":12,"path":"folders/Objects/Screen.yy",},
+    {"name":"Rooms","order":5,"path":"folders/Rooms.yy",},
+    {"name":"Scripts","order":6,"path":"folders/Scripts.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_bullet_player","order":1,"path":"objects/obj_bullet_player/obj_bullet_player.yy",},
+    {"name":"obj_enemy_parent","order":1,"path":"objects/obj_enemy_parent/obj_enemy_parent.yy",},
+    {"name":"obj_enemy_shooter","order":2,"path":"objects/obj_enemy_shooter/obj_enemy_shooter.yy",},
+    {"name":"obj_exit_door","order":1,"path":"objects/obj_exit_door/obj_exit_door.yy",},
+    {"name":"obj_game_manager","order":2,"path":"objects/obj_game_manager/obj_game_manager.yy",},
+    {"name":"obj_hud","order":4,"path":"objects/obj_hud/obj_hud.yy",},
+    {"name":"obj_player","order":5,"path":"objects/obj_player/obj_player.yy",},
+    {"name":"obj_title_screen","order":1,"path":"objects/obj_title_screen/obj_title_screen.yy",},
+    {"name":"obj_upgrade_ui","order":7,"path":"objects/obj_upgrade_ui/obj_upgrade_ui.yy",},
+    {"name":"obj_wave_manager","order":8,"path":"objects/obj_wave_manager/obj_wave_manager.yy",},
+    {"name":"obj_win_screen","order":2,"path":"objects/obj_win_screen/obj_win_screen.yy",},
+    {"name":"room_gameover","order":1,"path":"rooms/room_gameover/room_gameover.yy",},
+    {"name":"room_title","order":2,"path":"rooms/room_title/room_title.yy",},
+    {"name":"room_win","order":3,"path":"rooms/room_win/room_win.yy",},
+  ],
+}
