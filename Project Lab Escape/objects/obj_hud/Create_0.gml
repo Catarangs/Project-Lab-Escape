@@ -1,1 +1,0 @@
-flash_timer = 0;
