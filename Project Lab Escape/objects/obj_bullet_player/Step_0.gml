@@ -1,3 +1,4 @@
+if (global.cheat_open) exit;   // cheat menu open: game is paused
 x += lengthdir_x(bspd, bdir);
 y += lengthdir_y(bspd, bdir);
 

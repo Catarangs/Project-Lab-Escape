@@ -1,3 +1,4 @@
+if (global.cheat_open) exit;   // cheat menu open: game is paused
 if (keyboard_check_pressed(ord("1"))) do_select(0);
 if (keyboard_check_pressed(ord("2"))) do_select(1);
 if (keyboard_check_pressed(ord("3"))) do_select(2);

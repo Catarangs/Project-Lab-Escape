@@ -1,3 +1,4 @@
+if (global.cheat_open) exit;   // cheat menu open: game is paused
 if (!alive) {
     death_timer++;
     if (death_timer >= 100) room_goto(room_gameover);

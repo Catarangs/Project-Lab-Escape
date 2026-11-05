@@ -32,3 +32,10 @@ draw_circle(x + fx + ox, y + fy + oy, 3, false);
 draw_circle(x + fx - ox, y + fy - oy, 3, false);
 
 draw_set_alpha(1);
+
+if (global.god_mode) {
+    draw_set_color(make_color_rgb(255, 210, 60));
+    draw_set_alpha(0.7);
+    draw_circle(x, y, 22, true);
+    draw_set_alpha(1);
+}

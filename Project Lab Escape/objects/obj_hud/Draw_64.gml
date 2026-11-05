@@ -69,3 +69,10 @@ if (global.floor_num == 1 && global.wave_num <= 1) {
     draw_set_color(make_color_rgb(70, 90, 70));
     draw_text(18, gh - 42, "WASD: move  |  Stop: slow-motion  |  Auto-fires at nearest enemy");
 }
+
+if (global.god_mode) {
+    draw_set_halign(fa_center);
+    draw_set_color(make_color_rgb(255, 210, 60));
+    draw_text(gw/2, 108, "GOD MODE");
+    draw_set_halign(fa_left);
+}

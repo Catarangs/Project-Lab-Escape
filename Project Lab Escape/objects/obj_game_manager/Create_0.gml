@@ -22,3 +22,9 @@ global.norm_time_target = 1.0;
 
 global.is_upgrade_phase = false;
 global.door_open        = false;
+
+// ---- cheat menu (press ~ or F1) ----
+global.cheat_open = false;   // true while the menu is open (pauses the game)
+global.god_mode   = false;   // cheat: take no damage
+
+instance_create_layer(0, 0, "Instances", obj_cheat_menu);

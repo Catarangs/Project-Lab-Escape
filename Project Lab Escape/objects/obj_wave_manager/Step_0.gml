@@ -1,3 +1,4 @@
+if (global.cheat_open) exit;   // cheat menu open: game is paused
 switch (state) {
 
     case "countdown":

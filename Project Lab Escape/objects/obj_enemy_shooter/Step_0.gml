@@ -1,3 +1,4 @@
+if (global.cheat_open) exit;   // cheat menu open: game is paused
 
 if (dying) exit;
 if (!instance_exists(obj_player) || !obj_player.alive) exit;

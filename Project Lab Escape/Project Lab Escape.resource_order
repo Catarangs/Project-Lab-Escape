@@ -22,5 +22,7 @@
     {"name":"room_gameover","order":1,"path":"rooms/room_gameover/room_gameover.yy",},
     {"name":"room_title","order":2,"path":"rooms/room_title/room_title.yy",},
     {"name":"room_win","order":3,"path":"rooms/room_win/room_win.yy",},
+    {"name":"spr_tileset_WallandFloor","order":9,"path":"sprites/spr_tileset_WallandFloor/spr_tileset_WallandFloor.yy",},
+    {"name":"TileSet1","order":8,"path":"tilesets/TileSet1/TileSet1.yy",},
   ],
 }
