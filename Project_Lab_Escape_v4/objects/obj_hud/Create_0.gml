@@ -1,0 +1,14 @@
+flash_timer = 0;
+heal_flash  = 0;
+show_coords = false;
+tip_t       = 1100;
+kl = 0;
+pin_l = false;
+pin_r = false;
+pin_t = false;
+kr = 0;
+kt = 0;
+obj_prev = 0;
+obj_flash = 0;
+last_msg = "";
+top_flash = 0;

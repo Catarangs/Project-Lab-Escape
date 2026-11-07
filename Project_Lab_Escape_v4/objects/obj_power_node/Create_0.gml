@@ -1,0 +1,12 @@
+tier        = floor_info(global.floor_num).tier;
+hp          = 12 + 3 * tier;
+max_hp      = hp;
+dying       = false;
+hit_flash   = 0;
+depth       = -90;
+gap_ang     = irandom(359);
+gap_w       = 110 - 14 * tier;
+gap_dir     = (x < global.arena_w / 2) ? 1 : -1;
+gap_spd     = 1.5 + 0.35 * tier;
+block_flash = 0;
+gap_flash   = 0;
